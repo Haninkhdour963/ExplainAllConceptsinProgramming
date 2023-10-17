@@ -1,0 +1,15 @@
+C:\Users\HENO999\Desktop\HelloProgrammerExam\HelloProgrammerExam\bin\Debug\net6.0\HelloProgrammerExam.exe
+C:\Users\HENO999\Desktop\HelloProgrammerExam\HelloProgrammerExam\bin\Debug\net6.0\HelloProgrammerExam.deps.json
+C:\Users\HENO999\Desktop\HelloProgrammerExam\HelloProgrammerExam\bin\Debug\net6.0\HelloProgrammerExam.runtimeconfig.json
+C:\Users\HENO999\Desktop\HelloProgrammerExam\HelloProgrammerExam\bin\Debug\net6.0\HelloProgrammerExam.dll
+C:\Users\HENO999\Desktop\HelloProgrammerExam\HelloProgrammerExam\bin\Debug\net6.0\HelloProgrammerExam.pdb
+C:\Users\HENO999\Desktop\HelloProgrammerExam\HelloProgrammerExam\obj\Debug\net6.0\HelloProgrammerExam.csproj.AssemblyReference.cache
+C:\Users\HENO999\Desktop\HelloProgrammerExam\HelloProgrammerExam\obj\Debug\net6.0\HelloProgrammerExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HENO999\Desktop\HelloProgrammerExam\HelloProgrammerExam\obj\Debug\net6.0\HelloProgrammerExam.AssemblyInfoInputs.cache
+C:\Users\HENO999\Desktop\HelloProgrammerExam\HelloProgrammerExam\obj\Debug\net6.0\HelloProgrammerExam.AssemblyInfo.cs
+C:\Users\HENO999\Desktop\HelloProgrammerExam\HelloProgrammerExam\obj\Debug\net6.0\HelloProgrammerExam.csproj.CoreCompileInputs.cache
+C:\Users\HENO999\Desktop\HelloProgrammerExam\HelloProgrammerExam\obj\Debug\net6.0\HelloProgrammerExam.dll
+C:\Users\HENO999\Desktop\HelloProgrammerExam\HelloProgrammerExam\obj\Debug\net6.0\refint\HelloProgrammerExam.dll
+C:\Users\HENO999\Desktop\HelloProgrammerExam\HelloProgrammerExam\obj\Debug\net6.0\HelloProgrammerExam.pdb
+C:\Users\HENO999\Desktop\HelloProgrammerExam\HelloProgrammerExam\obj\Debug\net6.0\HelloProgrammerExam.genruntimeconfig.cache
+C:\Users\HENO999\Desktop\HelloProgrammerExam\HelloProgrammerExam\obj\Debug\net6.0\ref\HelloProgrammerExam.dll
